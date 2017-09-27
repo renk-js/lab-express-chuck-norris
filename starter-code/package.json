@@ -1,7 +1,7 @@
 {
   "name": "lab-chuck-norris",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chuck Norris for the win",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
